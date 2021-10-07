@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@0b60a422-c695-468d-9de5-6d45aff29435" />
+        <remote-mappings server-id="python@sshConfig://zhongxiang_sun@183.174.228.109:5102 password/new_disk2/zhongxiang_sun/anaconda3/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/new_disk2/zhongxiang_sun/code/explanation_project/SPACES_torch" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

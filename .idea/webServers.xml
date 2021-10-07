@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0b60a422-c695-468d-9de5-6d45aff29435" name="sshConfig://zhongxiang_sun@183.174.228.109:5102 password/new_disk2/zhongxiang_sun/anaconda3/bin/python3.7">
+        <fileTransfer accessType="SFTP" host="183.174.228.109" port="5102" sshConfigId="d87d6da2-23c6-4d23-8386-bd744536d7fb" sshConfig="sshConfig://zhongxiang_sun@183.174.228.109:5102 password/new_disk2/zhongxiang_sun/anaconda3/bin/python3.7" />
+      </webServer>
+    </option>
+  </component>
+</project>
